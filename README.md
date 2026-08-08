@@ -1,16 +1,19 @@
-## Hi there 👋
+I'm **ATO17**
+I am an Indian student currently trying to get into of cybersecurity. Trying to LARP my way into it, but I am tryna put in the hours in my Linux VM to turn that fiction into reality. I am here to break things, figure out how to put them back together, and build a portfolio of hands-on security projects along the way
 
-<!--
-**ATO17/ATO17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently:**
+Studying core networking, Linux administration, and the fundamentals of ethical hacking.
 
-Here are some ideas to get you started:
+Building stuff from theory to practice by building software type cybersecurity tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experimenting on VMs.
+
+**Beginner Arsenal That I'm Trying to Expand on the Daily:**
+OS: Linux (Debian or Kali)
+
+Languages: Python, C, Bash, trying to add more
+
+Tools: VirtualBox, Nmap, Wireshark, stuff like that
+
+
+**"The only difference between a script kiddie and a professional is the willingness to read the documentation."** — (IDK, someone)
