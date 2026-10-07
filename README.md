@@ -1,17 +1,15 @@
-# Hi, I'm ATO17
+# Hi, I'm AT017
 
-I am an Indian student currently trying to get into cybersecurity. I'm trying to LARP my way into it, but I am putting in the hours in my Linux VM to turn that fiction into reality. I am here to break things, figure out how to put them back together, and build a portfolio of hands-on security projects along the way.
+I am an Indian student currently trying to get into networking. And I am putting in the hours in to become an expert at it. Constantly trying to build stuff and learn how everything works, and put together a portfolio of hands-on networking projects along the way.
 
-### Currently
+### 📚 Currently
 
-* **Studying:** Core networking, Linux administration, and the fundamentals of ethical hacking.
-* **Building:** Taking things from theory to practice by creating software-based cybersecurity tools.
-* **Experimenting:** Testing and breaking things on VMs.
+- **Studying:** Core networking (OSI/TCP-IP, subnetting, routing, switching), Linux administration, and the fundamentals of network design and troubleshooting.
+- **Building:** Taking things from theory to practice by creating virtual network labs and software-based networking tools.
+- **Experimenting:** Simulating topologies, misconfiguring things.
 
-### Beginner Arsenal (Expanding Daily)
+### 🛠️ Beginner Arsenal (Expanding Daily)
 
-* **OS:** Linux (Debian & Kali)
-* **Languages:** Python, C, Bash (trying to add more)
-* **Tools:** VirtualBox, Nmap, Wireshark, and stuff like that
-
-> *"The only difference between a script kiddie and a professional is the willingness to read the documentation."* — (IDK, someone)
+- **OS:** Linux (Debian)
+- **Languages:** Python, C, Bash (trying to add more)
+- **Tools:** VirtualBox, Wireshark, Nmap, and stuff like that
