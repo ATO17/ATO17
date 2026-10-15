@@ -14,8 +14,8 @@ Started out as being interested in cybersecurity at a young age and wanting to m
 ---
 
 ### Certifications I'm targeting:
-**AWS Certified Cloud Practitioner**
-**AWS Certified Solutions Architect – Associate**
+* **AWS Certified Cloud Practitioner**
+* **AWS Certified Solutions Architect – Associate**
 
 ---
 
