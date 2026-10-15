@@ -1,15 +1,28 @@
-# Hi, I'm AT017
+# I'm ATO17 
 
-I am an Indian student currently trying to get into networking. And I am putting in the hours in to become an expert at it. Constantly trying to build stuff and learn how everything works, and put together a portfolio of hands-on networking projects along the way.
+**An Indian student aspiring to be a Cloud & DevOps Engineer**
 
-### Currently
+Started out as being interested in cybersecurity at a young age and wanting to make a career in it, but getting deeper into learning how everything actually works, networking caught my eye which in turn brought me to where I am now, trying to build learn about network automation, and cloud architecture and trying to make my projects from scratch. Gotta start somewhere.
 
-- **Studying:** Core networking (OSI/TCP-IP, subnetting, routing, switching), Linux administration, and the fundamentals of network design and troubleshooting.
-- **Building:** Taking things from theory to practice by creating virtual network labs and software-based networking tools.
-- **Experimenting:** Simulating topologies, misconfiguring things.
+---
 
-### Beginner Stuff
+### Skills I've learned and Tech I've worked with so far:
+* **OS and Languages** Linux (Ubuntu), Bash, Python (`boto3`, `Netmiko`, `requests`), Git
+* **Networking Concept and Tools:** TCP/IP, Subnetting/VLSM, VLANs, OSPF, ACLs, HSRP, Wireshark, Packet Tracer
 
-- **OS:** Linux (Debian)
-- **Languages:** Python, C, Bash (trying to add more)
-- **Tools:** VirtualBox, Wireshark, Nmap, and stuff like that
+
+---
+
+### Certifications I'm targeting:
+**AWS Certified Cloud Practitioner**
+**AWS Certified Solutions Architect – Associate**
+
+---
+
+### Latest Blog Posts
+*Coming soon*
+
+---
+
+### PS: I am currently as new to this as one can be and while I have planned out what all I have in mind, I am actively open to connect and learn. I don't mind getting cyberbullied, I don't know what I don't know.
+**Email:** akultomar16@gmail.com
