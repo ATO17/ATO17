@@ -3,6 +3,7 @@
 **An Indian student aspiring to be a Cloud & DevOps Engineer**
 
 Started out as being interested in cybersecurity at a young age and wanting to make a career in it, but getting deeper into learning how everything actually works, networking caught my eye which in turn brought me to where I am now, trying to learn about network automation, cloud architecture and working towards making my projects from scratch. Gotta start somewhere.
+Focusing on a mostly primitive path to learn and work with those new concepts AI is going to be a helping hand if ever absolutely necessary.
 
 ---
 
